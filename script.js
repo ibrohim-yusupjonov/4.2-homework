@@ -43,13 +43,6 @@
 
 // function voterResults(arr) {
 //     voter = 0
-//     // for (let a = 0; a < arr.length; a++){
-//     //      if (arr[a].voted === true){
-//     //             if (arr[a].age >= 18) {
-//     //                   voter++;
-//     //             }
-//     //      }
-//     // }
 //     arr.forEach(vote => {
 //         if ( vote.voted === true){
 //             voter++
